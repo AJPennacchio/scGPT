@@ -1,0 +1,14 @@
+# ignore directories
+data/
+sample_data/
+wandb/
+save/dev*/
+.ipynb_checkpoints/
+
+# ignore files
+job1.sh.o*
+*sif
+*pt
+
+
+
